@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#페이지",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +156,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -172,10 +173,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1e216ca022cfb789",
+  "active": "77c00429ef0921d5",
   "lastOpenFiles": [
-    "Meeteam.canvas",
     "페이지/23. 메인 페이지.md",
+    "Meeteam.canvas",
     "페이지/8-2. 밋팀 관리 페이지 - 구인 글 관리.md",
     "페이지/22. 랜딩 페이지.md",
     "페이지/4. 로그인 페이지.md",
