@@ -36,14 +36,11 @@
             "id": "1e216ca022cfb789",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Meeteam.canvas",
-                "viewState": {
-                  "x": 434.81478747447323,
-                  "y": 384.89312220115505,
-                  "zoom": -0.6565266927083329
-                }
+                "file": "페이지/14. 특정 구인 글 상세 페이지.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -114,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeteam.canvas",
+                "file": "페이지/14. 특정 구인 글 상세 페이지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meeteam.canvas",
+                "file": "페이지/14. 특정 구인 글 상세 페이지.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meeteam.canvas"
+                "file": "페이지/14. 특정 구인 글 상세 페이지.md"
               }
             }
           }
@@ -162,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,14 +174,14 @@
   },
   "active": "1e216ca022cfb789",
   "lastOpenFiles": [
-    "페이지/23. 메인 페이지.md",
     "페이지/9. 구인 밋팀 페이지.md",
     "페이지/8. 밋팀 관리 페이지.md",
+    "Meeteam.canvas",
+    "페이지/23. 메인 페이지.md",
     "페이지/8-4. 밋팀 관리 페이지  - 내 활동.md",
     "페이지/8-3. 밋팀 관리 페이지 - 포트폴리오 관리.md",
     "페이지/8-2. 밋팀 관리 페이지 - 구인 글 관리.md",
     "페이지/8-1. 밋팀 관리 페이지 - 전체 밋팀 관리.md",
-    "Meeteam.canvas",
     "페이지/22. 랜딩 페이지.md",
     "페이지/4. 로그인 페이지.md",
     "페이지/7. 학교 이메일 인증 페이지.md",
@@ -202,7 +200,6 @@
     "페이지/16. 산출물 등록 페이지.md",
     "페이지/15. 구인 글 작성 페이지.md",
     "페이지/13. 특정 밋팀 상세 페이지 - 진행완료.md",
-    "페이지/12. 특정 밋팀 상세 페이지 - 진행중.md",
     "컴포넌트",
     "페이지"
   ]
