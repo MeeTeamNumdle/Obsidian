@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1705512704878,
+      "title": "그래프",
+      "options": {
+        "collapse-filter": false,
+        "search": "",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "tag:#페이지  ",
+            "color": {
+              "a": 1,
+              "rgb": 14048348
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": -0.9,
+        "nodeSizeMultiplier": 2.1939446366782,
+        "lineSizeMultiplier": 3.05865051903114,
+        "collapse-forces": false,
+        "centerStrength": 0.20242214532872,
+        "repelStrength": 11.1072664359862,
+        "linkStrength": 0.541522491349481,
+        "linkDistance": 444,
+        "scale": 0.4140861934957931,
+        "close": false
+      }
+    }
+  ]
+}
