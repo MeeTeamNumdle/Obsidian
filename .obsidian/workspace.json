@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "페이지/14. 특정 구인 글 상세 페이지.md",
+                "file": "페이지/18. 새 밋팀 생성 페이지.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "페이지/14. 특정 구인 글 상세 페이지.md",
+                "file": "페이지/18. 새 밋팀 생성 페이지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "페이지/14. 특정 구인 글 상세 페이지.md",
+                "file": "페이지/18. 새 밋팀 생성 페이지.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "페이지/14. 특정 구인 글 상세 페이지.md"
+                "file": "페이지/18. 새 밋팀 생성 페이지.md"
               }
             }
           }
@@ -174,10 +174,10 @@
   },
   "active": "1e216ca022cfb789",
   "lastOpenFiles": [
+    "페이지/14. 특정 구인 글 상세 페이지.md",
     "페이지/15. 구인 글 작성 페이지.md",
     "페이지/16. 산출물 등록 페이지.md",
     "페이지/18. 새 밋팀 생성 페이지.md",
-    "페이지/14. 특정 구인 글 상세 페이지.md",
     "페이지/9. 구인 밋팀 페이지.md",
     "페이지/8. 밋팀 관리 페이지.md",
     "Meeteam.canvas",
