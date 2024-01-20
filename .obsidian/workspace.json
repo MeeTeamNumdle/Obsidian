@@ -91,6 +91,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c87a9e9a389e7e02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "페이지/23. 메인 페이지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65cdf523d24244f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "페이지/4. 로그인 페이지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -217,11 +241,11 @@
   },
   "active": "cfa5574931556845",
   "lastOpenFiles": [
+    "페이지/1. 회원가입 페이지.md",
+    "페이지/4. 로그인 페이지.md",
+    "페이지/23. 메인 페이지.md",
     "페이지/7. 학교 이메일 인증 페이지.md",
     "페이지/11. 이용안내 페이지.md",
-    "페이지/1. 회원가입 페이지.md",
-    "페이지/23. 메인 페이지.md",
-    "페이지/4. 로그인 페이지.md",
     "전체 페이지 목록.md",
     "페이지/2. 일반 회원가입 페이지.md",
     "Meeteam.canvas",
