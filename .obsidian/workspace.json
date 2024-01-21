@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "페이지/4. 로그인 페이지.md",
+                "file": "페이지/23. 메인 페이지.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -271,13 +271,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "047492f2e8059b28",
+  "active": "421e315eec270247",
   "lastOpenFiles": [
-    "페이지/7. 학교 이메일 인증 페이지.md",
-    "Meeteam.canvas",
-    "페이지/23. 메인 페이지.md",
     "페이지/1. 회원가입 페이지.md",
     "페이지/4. 로그인 페이지.md",
+    "페이지/23. 메인 페이지.md",
+    "페이지/7. 학교 이메일 인증 페이지.md",
+    "Meeteam.canvas",
     "페이지/11. 이용안내 페이지.md",
     "전체 페이지 목록.md",
     "페이지/2. 일반 회원가입 페이지.md",
