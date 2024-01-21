@@ -36,11 +36,14 @@
             "id": "1e216ca022cfb789",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "페이지/23. 메인 페이지.md",
-                "mode": "source",
-                "source": false
+                "file": "Meeteam.canvas",
+                "viewState": {
+                  "x": 101.4496330298314,
+                  "y": 349.5365566839313,
+                  "zoom": -0.4059563685216753
+                }
               }
             }
           },
@@ -111,6 +114,18 @@
               "type": "markdown",
               "state": {
                 "file": "페이지/4. 로그인 페이지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0064bfe8620633f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "페이지/7. 학교 이메일 인증 페이지.md",
                 "mode": "source",
                 "source": false
               }
@@ -241,14 +256,14 @@
   },
   "active": "cfa5574931556845",
   "lastOpenFiles": [
+    "페이지/7. 학교 이메일 인증 페이지.md",
+    "Meeteam.canvas",
+    "페이지/23. 메인 페이지.md",
     "페이지/1. 회원가입 페이지.md",
     "페이지/4. 로그인 페이지.md",
-    "페이지/23. 메인 페이지.md",
-    "페이지/7. 학교 이메일 인증 페이지.md",
     "페이지/11. 이용안내 페이지.md",
     "전체 페이지 목록.md",
     "페이지/2. 일반 회원가입 페이지.md",
-    "Meeteam.canvas",
     "페이지/8-2. 밋팀 관리 페이지 - 구인 글 관리.md",
     "페이지/22. 랜딩 페이지.md",
     "페이지/3. 닉네임 입력 페이지.md",
