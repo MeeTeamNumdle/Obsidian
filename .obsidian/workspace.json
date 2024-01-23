@@ -18,120 +18,6 @@
             }
           },
           {
-            "id": "9c909dde64f6ff2b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Meeteam.canvas",
-                "viewState": {
-                  "x": 350.48931311638324,
-                  "y": 167.77879498352567,
-                  "zoom": -0.8733560798565669
-                }
-              }
-            }
-          },
-          {
-            "id": "1e216ca022cfb789",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Meeteam.canvas",
-                "viewState": {
-                  "x": 101.4496330298314,
-                  "y": 349.5365566839313,
-                  "zoom": -0.4059563685216753
-                }
-              }
-            }
-          },
-          {
-            "id": "421e315eec270247",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "페이지/23. 메인 페이지.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1630d737cb4760c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "페이지/23. 메인 페이지.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "398652553c5438bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "페이지/1. 회원가입 페이지.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f637d901f87f790",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "페이지/7. 학교 이메일 인증 페이지.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c87a9e9a389e7e02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "페이지/23. 메인 페이지.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65cdf523d24244f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "페이지/4. 로그인 페이지.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0064bfe8620633f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "페이지/7. 학교 이메일 인증 페이지.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "047492f2e8059b28",
             "type": "leaf",
             "state": {
@@ -143,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "페이지/23. 메인 페이지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "페이지/23. 메인 페이지.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -249,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "페이지/23. 메인 페이지.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -271,19 +152,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "421e315eec270247",
+  "active": "cfa5574931556845",
   "lastOpenFiles": [
-    "페이지/1. 회원가입 페이지.md",
-    "페이지/4. 로그인 페이지.md",
+    "Meeteam.canvas",
     "페이지/23. 메인 페이지.md",
     "페이지/7. 학교 이메일 인증 페이지.md",
-    "Meeteam.canvas",
+    "페이지/1. 회원가입 페이지.md",
+    "페이지/3. 닉네임 입력 페이지.md",
+    "페이지/4. 로그인 페이지.md",
     "페이지/11. 이용안내 페이지.md",
     "전체 페이지 목록.md",
     "페이지/2. 일반 회원가입 페이지.md",
     "페이지/8-2. 밋팀 관리 페이지 - 구인 글 관리.md",
     "페이지/22. 랜딩 페이지.md",
-    "페이지/3. 닉네임 입력 페이지.md",
     "페이지/8-1. 밋팀 관리 페이지 - 전체 밋팀 관리.md",
     "페이지/5-4. 특정 밋팀 관리 페이지 - 구인 현황.md",
     "페이지/20. 통합 검색 결과 페이지.md",
