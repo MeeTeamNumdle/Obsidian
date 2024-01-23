@@ -5,17 +5,24 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
+    {
+      "query": "tag:#1차  ",
+      "color": {
+        "a": 1,
+        "rgb": 2640624
+      }
+    },
     {
       "query": "tag:#페이지  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 12039391
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -0.4,
   "nodeSizeMultiplier": 2.1939446366782,
@@ -25,6 +32,6 @@
   "repelStrength": 7.92387543252595,
   "linkStrength": 0.423875432525952,
   "linkDistance": 337,
-  "scale": 0.7024309430778253,
+  "scale": 0.7764486343552022,
   "close": true
 }
