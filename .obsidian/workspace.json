@@ -148,9 +148,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f3b44f0ff895960",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "페이지/21. 유저 프로필 페이지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -216,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "페이지/10. 유저 목록 페이지.md",
+                "file": "페이지/21. 유저 프로필 페이지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "페이지/10. 유저 목록 페이지.md",
+                "file": "페이지/21. 유저 프로필 페이지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -256,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "페이지/10. 유저 목록 페이지.md"
+                "file": "페이지/21. 유저 프로필 페이지.md"
               }
             }
           }
@@ -276,8 +288,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "19a7b939afdfab87",
+  "active": "9f3b44f0ff895960",
   "lastOpenFiles": [
+    "페이지/10. 유저 목록 페이지.md",
     "페이지/2. 비밀번호 찾기 페이지.md",
     "페이지/4. 로그인 페이지.md",
     "페이지/5-1. 특정 밋팀 관리 페이지 - 대시보드.md",
@@ -287,7 +300,6 @@
     "페이지/9. 구인 밋팀 페이지.md",
     "페이지/14. 특정 구인 글 상세 페이지.md",
     "페이지/19. 통합 검색 페이지.md",
-    "페이지/10. 유저 목록 페이지.md",
     "페이지/23. 메인 페이지.md",
     "페이지/20. 통합 검색 결과 페이지.md",
     "페이지/24. 알림 페이지.md",
