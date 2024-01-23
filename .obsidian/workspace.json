@@ -28,8 +28,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8453bd413e8df9bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "페이지/1. 회원가입 페이지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3ff79b7d688649e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "페이지/2. 비밀번호 찾기 페이지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "078d7c6ca5931173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "페이지/5-1. 특정 밋팀 관리 페이지 - 대시보드.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b7deea35fda6f7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "페이지/9. 구인 밋팀 페이지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -95,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "페이지/9. 구인 밋팀 페이지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "페이지/9. 구인 밋팀 페이지.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "페이지/9. 구인 밋팀 페이지.md"
+              }
             }
           }
         ],
@@ -152,34 +205,35 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cfa5574931556845",
+  "active": "3b7deea35fda6f7e",
   "lastOpenFiles": [
-    "Meeteam.canvas",
+    "페이지/8. 밋팀 관리 페이지.md",
+    "페이지/8-1. 밋팀 관리 페이지 - 전체 밋팀 관리.md",
+    "페이지/5-4. 특정 밋팀 관리 페이지 - 구인 현황.md",
+    "페이지/5-3. 특정 밋팀 관리 페이지 - 멤버.md",
+    "페이지/5-2. 특정 밋팀 관리 페이지 - 밋팀.md",
+    "페이지/5-1. 특정 밋팀 관리 페이지 - 대시보드.md",
+    "페이지/20. 통합 검색 결과 페이지.md",
+    "페이지/19. 통합 검색 페이지.md",
     "페이지/23. 메인 페이지.md",
-    "페이지/7. 학교 이메일 인증 페이지.md",
-    "페이지/1. 회원가입 페이지.md",
-    "페이지/3. 닉네임 입력 페이지.md",
     "페이지/4. 로그인 페이지.md",
+    "페이지/24. 알림 페이지.md",
+    "페이지/2. 비밀번호 찾기 페이지.md",
+    "페이지/1. 회원가입 페이지.md",
+    "Meeteam.canvas",
+    "페이지/7. 학교 이메일 인증 페이지.md",
+    "페이지/3. 닉네임 입력 페이지.md",
     "페이지/11. 이용안내 페이지.md",
     "전체 페이지 목록.md",
     "페이지/2. 일반 회원가입 페이지.md",
     "페이지/8-2. 밋팀 관리 페이지 - 구인 글 관리.md",
     "페이지/22. 랜딩 페이지.md",
-    "페이지/8-1. 밋팀 관리 페이지 - 전체 밋팀 관리.md",
-    "페이지/5-4. 특정 밋팀 관리 페이지 - 구인 현황.md",
-    "페이지/20. 통합 검색 결과 페이지.md",
     "페이지/17. 산출물 미리보기 페이지.md",
     "페이지/14. 특정 구인 글 상세 페이지.md",
-    "페이지/19. 통합 검색 페이지.md",
     "페이지/6. 밋팀 갤러리 페이지.md",
     "페이지/21. 유저 프로필 페이지.md",
     "페이지/18. 새 밋팀 생성 페이지.md",
     "페이지/16. 산출물 등록 페이지.md",
-    "페이지/15. 구인 글 작성 페이지.md",
-    "페이지/13. 특정 밋팀 상세 페이지 - 진행완료.md",
-    "페이지/12. 특정 밋팀 상세 페이지 - 진행중.md",
-    "페이지/10. 유저 목록 페이지.md",
-    "페이지/9. 구인 밋팀 페이지.md",
     "컴포넌트",
     "페이지"
   ]
