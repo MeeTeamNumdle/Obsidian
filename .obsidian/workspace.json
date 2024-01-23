@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "페이지/18. 새 밋팀 생성 페이지.md",
+                "file": "페이지/16. 산출물 등록 페이지.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "페이지/18. 새 밋팀 생성 페이지.md",
+                "file": "페이지/16. 산출물 등록 페이지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "페이지/18. 새 밋팀 생성 페이지.md",
+                "file": "페이지/16. 산출물 등록 페이지.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "페이지/18. 새 밋팀 생성 페이지.md"
+                "file": "페이지/16. 산출물 등록 페이지.md"
               }
             }
           }
@@ -177,6 +177,8 @@
   },
   "active": "fd15501089013d1b",
   "lastOpenFiles": [
+    "페이지/15. 구인 글 작성 페이지.md",
+    "페이지/18. 새 밋팀 생성 페이지.md",
     "페이지/14. 특정 구인 글 상세 페이지.md",
     "페이지/13. 특정 밋팀 상세 페이지 - 진행완료.md",
     "페이지/12. 특정 밋팀 상세 페이지 - 진행중.md",
@@ -188,10 +190,8 @@
     "페이지/8-3. 밋팀 관리 페이지 - 포트폴리오 관리.md",
     "페이지/8-2. 밋팀 관리 페이지 - 구인 글 관리.md",
     "페이지/8-1. 밋팀 관리 페이지 - 전체 밋팀 관리.md",
-    "페이지/15. 구인 글 작성 페이지.md",
     "페이지/16. 산출물 등록 페이지.md",
     "페이지/17. 산출물 미리보기 페이지.md",
-    "페이지/18. 새 밋팀 생성 페이지.md",
     "페이지/23. 메인 페이지.md",
     "페이지/22. 랜딩 페이지.md",
     "페이지/21. 유저 프로필 페이지.md",
