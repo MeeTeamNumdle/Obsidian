@@ -125,8 +125,7 @@
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +191,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "페이지/5-1. 특정 밋팀 관리 페이지 - 대시보드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +207,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "페이지/5-1. 특정 밋팀 관리 페이지 - 대시보드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -231,9 +228,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "페이지/5-1. 특정 밋팀 관리 페이지 - 대시보드.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -252,14 +247,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e692d104b17498cf",
+  "active": "cfa5574931556845",
   "lastOpenFiles": [
+    "페이지/5-1. 특정 밋팀 관리 페이지 - 대시보드.md",
+    "페이지/5-2. 특정 밋팀 관리 페이지 - 밋팀.md",
     "페이지/12. 특정 밋팀 상세 페이지 - 진행중.md",
     "페이지/6. 밋팀 갤러리 페이지.md",
     "페이지/9. 구인 밋팀 페이지.md",
     "페이지/4. 로그인 페이지.md",
     "페이지/14. 특정 구인 글 상세 페이지.md",
-    "페이지/5-1. 특정 밋팀 관리 페이지 - 대시보드.md",
     "페이지/19. 통합 검색 페이지.md",
     "페이지/10. 유저 목록 페이지.md",
     "페이지/23. 메인 페이지.md",
@@ -279,7 +275,6 @@
     "페이지/8. 밋팀 관리 페이지.md",
     "페이지/8-4. 밋팀 관리 페이지  - 내 활동.md",
     "페이지/8-3. 밋팀 관리 페이지 - 포트폴리오 관리.md",
-    "페이지/8-2. 밋팀 관리 페이지 - 구인 글 관리.md",
     "Meeteam.canvas",
     "컴포넌트",
     "페이지"
