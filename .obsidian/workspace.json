@@ -64,8 +64,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "48f9d5bfb019ef19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "페이지/14. 특정 구인 글 상세 페이지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3fc27cd33009c22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "페이지/6. 밋팀 갤러리 페이지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -131,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "페이지/6. 밋팀 갤러리 페이지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "페이지/6. 밋팀 갤러리 페이지.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "페이지/6. 밋팀 갤러리 페이지.md"
+              }
             }
           }
         ],
@@ -188,14 +217,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cfa5574931556845",
+  "active": "b3fc27cd33009c22",
   "lastOpenFiles": [
+    "페이지/14. 특정 구인 글 상세 페이지.md",
+    "페이지/9. 구인 밋팀 페이지.md",
     "페이지/23. 메인 페이지.md",
     "페이지/4. 로그인 페이지.md",
     "페이지/2. 비밀번호 찾기 페이지.md",
     "페이지/5-1. 특정 밋팀 관리 페이지 - 대시보드.md",
     "페이지/24. 알림 페이지.md",
-    "페이지/14. 특정 구인 글 상세 페이지.md",
     "페이지/22. 랜딩 페이지.md",
     "페이지/19. 통합 검색 페이지.md",
     "페이지/20. 통합 검색 결과 페이지.md",
@@ -207,7 +237,6 @@
     "페이지/12. 특정 밋팀 상세 페이지 - 진행중.md",
     "페이지/11. 이용안내 페이지.md",
     "페이지/10. 유저 목록 페이지.md",
-    "페이지/9. 구인 밋팀 페이지.md",
     "페이지/3. 닉네임 입력 페이지.md",
     "페이지/1. 회원가입 페이지.md",
     "페이지/21. 유저 프로필 페이지.md",
