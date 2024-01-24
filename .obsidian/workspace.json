@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cfa5574931556845",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
             "id": "047492f2e8059b28",
             "type": "leaf",
             "state": {
@@ -160,8 +150,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c2b5e727b739107d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "페이지/24. 알림 페이지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "961426aff64af1b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "페이지/24. 알림 페이지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "249d423539fc9ddb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "페이지/2. 비밀번호 찾기 페이지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1beadc3f182212d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "페이지/5-1. 특정 밋팀 관리 페이지 - 대시보드.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -227,6 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "페이지/5-1. 특정 밋팀 관리 페이지 - 대시보드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,6 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "페이지/5-1. 특정 밋팀 관리 페이지 - 대시보드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -264,7 +305,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "페이지/5-1. 특정 밋팀 관리 페이지 - 대시보드.md"
+              }
             }
           }
         ]
@@ -283,14 +326,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cfa5574931556845",
+  "active": "1beadc3f182212d5",
   "lastOpenFiles": [
-    "페이지/23. 메인 페이지.md",
-    "페이지/21. 유저 프로필 페이지.md",
-    "페이지/10. 유저 목록 페이지.md",
+    "페이지/5-1. 특정 밋팀 관리 페이지 - 대시보드.md",
     "페이지/2. 비밀번호 찾기 페이지.md",
     "페이지/4. 로그인 페이지.md",
-    "페이지/5-1. 특정 밋팀 관리 페이지 - 대시보드.md",
+    "페이지/1. 회원가입 페이지.md",
+    "페이지/23. 메인 페이지.md",
+    "페이지/24. 알림 페이지.md",
+    "무제 파일.md",
+    "페이지/21. 유저 프로필 페이지.md",
+    "페이지/10. 유저 목록 페이지.md",
     "페이지/5-2. 특정 밋팀 관리 페이지 - 밋팀.md",
     "페이지/12. 특정 밋팀 상세 페이지 - 진행중.md",
     "페이지/6. 밋팀 갤러리 페이지.md",
@@ -298,7 +344,6 @@
     "페이지/14. 특정 구인 글 상세 페이지.md",
     "페이지/19. 통합 검색 페이지.md",
     "페이지/20. 통합 검색 결과 페이지.md",
-    "페이지/24. 알림 페이지.md",
     "페이지/22. 랜딩 페이지.md",
     "페이지/18. 새 밋팀 생성 페이지.md",
     "페이지/16. 산출물 등록 페이지.md",
@@ -307,10 +352,8 @@
     "페이지/13. 특정 밋팀 상세 페이지 - 진행완료.md",
     "페이지/11. 이용안내 페이지.md",
     "페이지/3. 닉네임 입력 페이지.md",
-    "페이지/1. 회원가입 페이지.md",
     "페이지/8. 밋팀 관리 페이지.md",
     "페이지/8-4. 밋팀 관리 페이지  - 내 활동.md",
-    "페이지/8-3. 밋팀 관리 페이지 - 포트폴리오 관리.md",
     "Meeteam.canvas",
     "컴포넌트",
     "페이지"
