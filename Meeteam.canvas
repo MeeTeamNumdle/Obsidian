@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"b74f59c6269b35dd","type":"file","file":"페이지/23. 메인 페이지.md","x":-280,"y":-360,"width":680,"height":1280},
-		{"id":"4b3e6f2ae9b8ea59","type":"file","file":"페이지/4. 로그인 페이지.md","x":760,"y":-420,"width":400,"height":400}
-	],
-	"edges":[]
-}
