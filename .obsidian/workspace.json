@@ -172,8 +172,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "576b7acd6736b85a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "페이지/9. 구인 밋팀 페이지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -202,7 +215,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#1차",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,7 +232,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -239,6 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "페이지/9. 구인 밋팀 페이지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,6 +270,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "페이지/9. 구인 밋팀 페이지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -276,7 +292,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "페이지/9. 구인 밋팀 페이지.md"
+              }
             }
           }
         ]
@@ -295,8 +313,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1beadc3f182212d5",
+  "active": "77c00429ef0921d5",
   "lastOpenFiles": [
+    "gitignore",
+    "새 텍스트 문서.txt",
+    "페이지/8. 밋팀 관리 페이지.md",
+    "페이지/6. 밋팀 갤러리 페이지.md",
     "페이지/5-5. 특정 밋팀 관리 페이지 - 설정.md",
     "페이지/5-4. 특정 밋팀 관리 페이지 - 구인 현황.md",
     "페이지/5-2. 특정 밋팀 관리 페이지 - 밋팀.md",
@@ -320,9 +342,6 @@
     "페이지/13. 특정 밋팀 상세 페이지 - 진행완료.md",
     "페이지/12. 특정 밋팀 상세 페이지 - 진행중.md",
     "페이지/11. 이용안내 페이지.md",
-    "페이지/10. 유저 목록 페이지.md",
-    "페이지/9. 구인 밋팀 페이지.md",
-    "페이지/8. 밋팀 관리 페이지.md",
     "정의",
     "Meeteam.canvas",
     "컴포넌트",
