@@ -2,7 +2,7 @@
   "items": [
     {
       "type": "graph",
-      "ctime": 1705512704878,
+      "ctime": 1705628465743,
       "title": "그래프",
       "options": {
         "collapse-filter": false,
@@ -25,14 +25,14 @@
         "showArrow": false,
         "textFadeMultiplier": -0.9,
         "nodeSizeMultiplier": 2.1939446366782,
-        "lineSizeMultiplier": 3.05865051903114,
+        "lineSizeMultiplier": 0.820588235294118,
         "collapse-forces": false,
-        "centerStrength": 0.20242214532872,
-        "repelStrength": 11.1072664359862,
-        "linkStrength": 0.541522491349481,
-        "linkDistance": 444,
-        "scale": 0.4140861934957931,
-        "close": false
+        "centerStrength": 0.25,
+        "repelStrength": 8.125,
+        "linkStrength": 0.53125,
+        "linkDistance": 337,
+        "scale": 0.3823010968769987,
+        "close": true
       }
     }
   ]
