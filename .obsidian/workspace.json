@@ -161,8 +161,7 @@
               }
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,7 +227,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "페이지/21. 유저 프로필 페이지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +243,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "페이지/21. 유저 프로필 페이지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -267,9 +264,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "페이지/21. 유저 프로필 페이지.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -288,8 +283,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9f3b44f0ff895960",
+  "active": "cfa5574931556845",
   "lastOpenFiles": [
+    "페이지/23. 메인 페이지.md",
+    "페이지/21. 유저 프로필 페이지.md",
     "페이지/10. 유저 목록 페이지.md",
     "페이지/2. 비밀번호 찾기 페이지.md",
     "페이지/4. 로그인 페이지.md",
@@ -300,7 +297,6 @@
     "페이지/9. 구인 밋팀 페이지.md",
     "페이지/14. 특정 구인 글 상세 페이지.md",
     "페이지/19. 통합 검색 페이지.md",
-    "페이지/23. 메인 페이지.md",
     "페이지/20. 통합 검색 결과 페이지.md",
     "페이지/24. 알림 페이지.md",
     "페이지/22. 랜딩 페이지.md",
@@ -312,7 +308,6 @@
     "페이지/11. 이용안내 페이지.md",
     "페이지/3. 닉네임 입력 페이지.md",
     "페이지/1. 회원가입 페이지.md",
-    "페이지/21. 유저 프로필 페이지.md",
     "페이지/8. 밋팀 관리 페이지.md",
     "페이지/8-4. 밋팀 관리 페이지  - 내 활동.md",
     "페이지/8-3. 밋팀 관리 페이지 - 포트폴리오 관리.md",
